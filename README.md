@@ -17,7 +17,7 @@ npm install
 run the program
 
 ```
-node index.js
+npm start
 ```
 
 ## Result format 
